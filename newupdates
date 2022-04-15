@@ -1,4 +1,7 @@
-- Araç yıkama fiyatı 300$ çekildi.
-- Valedeki ufak bug halledildi.
-- Artık illegal satışta paketlenmiş kokain vermeniz gerek.
-- Optimize sorunları düzeltildi.
+ + Adicionado concessionária de luxo.
+ + Adicionado contacto da concessionária no telemovel
+ + Corrigido bug das apps no telemovel nao ficarem centradas.
+ + Impossibilidade de pressionar botão de pânico morto.
+ + Impossibilidade de aceder ao inventario algemado.
+ + Otimização de alguns scripts/texturas.
+ + Adicionado craft das novas armas e respetivas balas.
