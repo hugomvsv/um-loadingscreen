@@ -1,7 +1,8 @@
- + Modificada loading screen.
- + Adicionado blips das roupas nas restantes orgs. 
- + Adicionado evento de Páscoa. (Comam pouco chocolate :D)
- + Alterada localização do serviço comunitário.
- + Adicionado porte de arma.
- + Adicionadas algumas doorlocks.
- + Adionado novo trabalho de autocarros.
+ + Adicionado autocarro customizado.
+ + Adicionado anuncios no chat para os bares e oficinas e concessionaria.
+ + Corrigido npc no hospital
+ + Opção de deitar automaticamente nas camas do hospital.
+ + Alterado script do /pegar.
+ + Possibilidade de algemar pela parte da frente e de trás.
+ + Otimizados alguns scripts.
+ + Correções de alguns erros.
