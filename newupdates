@@ -1,8 +1,9 @@
- + Adicionado autocarro customizado.
- + Adicionado anuncios no chat para os bares e oficinas e concessionaria.
- + Corrigido npc no hospital
- + Opção de deitar automaticamente nas camas do hospital.
- + Alterado script do /pegar.
- + Possibilidade de algemar pela parte da frente e de trás.
- + Otimizados alguns scripts.
- + Correções de alguns erros.
+ + Fix Caça.
+ + Fix cartão de porte de armas a zero euros.
+ + Fix mostrar cartões.
+ + Diminuido Range de darchaves.
+ + Aumentada velocidade que a comida e bebida é diminuida.
+ + Adicionada REMAX no telemóvel.
+ + Adicionadas algumas doorlocks.
+ + Adicionados blips nas lojas de roupas para trocarem de roupas guardadas.
+ + Fix menu de interação da polícia..
