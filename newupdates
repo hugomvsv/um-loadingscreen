@@ -1,9 +1,7 @@
- + Fix Caça.
- + Fix cartão de porte de armas a zero euros.
- + Fix mostrar cartões.
- + Diminuido Range de darchaves.
- + Aumentada velocidade que a comida e bebida é diminuida.
- + Adicionada REMAX no telemóvel.
- + Adicionadas algumas doorlocks.
- + Adicionados blips nas lojas de roupas para trocarem de roupas guardadas.
- + Fix menu de interação da polícia..
+ + Adicionado Pearls. (Sushi e afins)
+ + Corrigidos alguns handlings.
+ + Fix alguns itens no craft.
+ + Blip de roupa adicionado na Midas
+ + Retirado notificação de relato de tiros da musket e sniper para a polícia.
+ + Alterados mais alguns handlings.
+ + Otimização geral de alguns scripts.
