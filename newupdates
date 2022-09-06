@@ -1,7 +1,6 @@
-+ Blips Revertidos.
- + Alterado loot das casas.
- + Alterado algumas receitas.
- + Renovada Norauto.
- + Tempo de revive alterado para 10 minutos
- + Alterada fotos/musica da loading screen.
- + Adicionados novos attachments às armas.
+  + Adicionadas novas garagens para helicópteros.
+  + Adicionadas e redifinidas algumas logs.
+  + Otimização da loading screen e corrigidos alguns erros relacionados com a steam api.
+  + Alteradas images/música da loading screen.
+  + Adicionado comando para retirar attachments das armas (\desequipar)
+  + Kits de reparos agora funcionais para carros da polícia e helicópteros.
