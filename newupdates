@@ -1,6 +1,9 @@
-  + Adicionadas novas garagens para helicópteros.
-  + Adicionadas e redifinidas algumas logs.
-  + Otimização da loading screen e corrigidos alguns erros relacionados com a steam api.
-  + Alteradas images/música da loading screen.
-  + Adicionado comando para retirar attachments das armas (\desequipar)
-  + Kits de reparos agora funcionais para carros da polícia e helicópteros.
+  + Adicionado menu VIP ( Tecla F5).
+  + Adicionados doorlocks na polícia.
+  + Trocadas localizações dos blips na policia.
+  + Alterado a percentagem de quanto o Jerrycan enche.
+  + Alterados alguns sons de carros/handlings.
+  + Alteração dos nomes dos carros da polícia.
+  + Adicionados novos carros à garagem da polícia.
+  + Alteração da cor de alguns drawtext para roxo.
+  + Assalto a lojinhas agora dão também materiais.
