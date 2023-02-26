@@ -1,9 +1,9 @@
-  + Adicionado menu VIP ( Tecla F5).
-  + Adicionados doorlocks na polícia.
-  + Trocadas localizações dos blips na policia.
-  + Alterado a percentagem de quanto o Jerrycan enche.
-  + Alterados alguns sons de carros/handlings.
-  + Alteração dos nomes dos carros da polícia.
-  + Adicionados novos carros à garagem da polícia.
-  + Alteração da cor de alguns drawtext para roxo.
-  + Assalto a lojinhas agora dão também materiais.
+ - Adicionado minigame à pesca.
+ - Fix animação infinita ao arrombar.
+ - Fix alarme de assaltos nas casas.
+ - Adicionado novo bau e menu de roupas guardadas ao Pearls.
+ - Adicionada roupa de staff quando se atende um report.
+ - Fix perder o colete quando se o coloca dentro de um veículo.
+ - Quando se usa o npc do hospital já não é perdido o colete. 
+ - Fix Elevadores/Teleports.
+ - Alteradas música e imagens da loading screen.
