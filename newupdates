@@ -1,12 +1,5 @@
-- Fix loja de ferramentas e bau de casas.
-- Fix dinheiro das oficinas.
-- Alterados icons de alguns itens.
-- Adicionado máscara de oxigênio na loja de ferramentas.
-- Alterações no código do sistema de modificações das oficinas.
-- Adicionadas novas regras ao anticheat.
-- Fix falsos positivos do anticheat.
-- Alterados cores dos blips da reciclagem.
-- Fix falar na rádio morto.
-- Alterada localização do bau dos Ballas.
-- Alterado peso dos corpos de Tec-9.
-- Alterados items nos terrenos hósteis para as novas drogas.
+- Alterado menu de criação da personagem.
+- Removidas notificações duplicadas.
+- Fix ban do anticheat no processo de drogas.
+- Alterada quantidade de reward no processo da erva.
+- Alterada descrição do servidor na lista de servidores.
